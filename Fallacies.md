@@ -6,3 +6,12 @@ Occurs when an argument is directed against a proposition that is presented as t
 
 # Ad hominenm
 Occurs when a person directs their argument against an individual rather than against the position they hold. It is sometimes referred to as "posoning the well"
+
+# Fallacy of False Analogy
+When perceived similarities are used as a basis to infer some further similarity that has yet to be observed. The relevent dissimilarities between the types of objects mentioned are ignored.
+
+## What makes an analogy strong?
+- Relevance of similarities in premises to those in the conclusion.
+- Number and variety of instances that form the basis of the analogy
+- Parsimoniousness of the claim
+- No glaring dis-analogies
